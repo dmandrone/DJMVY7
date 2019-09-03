@@ -38,3 +38,5 @@
 - Sort By Photographer
 - Sort By Photo Subject
 - Sort By File Date
+
+---- Made with Zach Snyder (zbs25d) -----
