@@ -1,10 +1,13 @@
 #Stakeholders
-
+ 1. Editor
+ 2. Photographer
+ 3. Journalist
+   - Functional Requirements
+   - Must...
+   - User will be able to...
+ 
 #Users (might be the same)
-
-1. Editor
-2. Photographer
-3. Journalist
+ 1. Average Person (Internet Surfer)
   - Functional Requirements
   - Must...
   - User will be able to...
