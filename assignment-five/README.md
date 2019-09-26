@@ -9,4 +9,4 @@ The 'main.py' file holds all of the functions, while the rest of the files conta
 2. 'test_file' - Tests if file matches the specific name required for the assignment (in this case its 'assignment.md')
 3. 'test_date' - Tests if file is uploaded before the submissions closes on the due date (in this case, the due date is '2019-10-28')
 4. 'test_occupation' - Tests if the person that the system admin is adding to the system is an Instructor or not.
-5. 'test_' - Tests if .
+5. 'test_comment' - Tests if assignment has been graded already so that it can become available for TA/Instructor comments to be added.

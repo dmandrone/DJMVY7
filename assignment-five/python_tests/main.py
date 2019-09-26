@@ -22,6 +22,14 @@ def getFilefail():
     filename = ''
     return filename
 
+def getAssignmentStatus():
+    gradeStatus = 'Graded'
+    return gradeStatus
+
+def getAssignmentStatusFail():
+    gradeStatus = 'Not Graded'
+    return gradeStatus
+
 def getCloseDate():
     return "2019-10-28"
 
@@ -50,9 +58,3 @@ def getOccup():
 def getOccupFail():
     occupation = 'Student'
     return occupation
-
-def get():
-    yoyoyoy
-
-def getFail();
-    yooyoyyo

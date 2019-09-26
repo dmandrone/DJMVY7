@@ -3,9 +3,8 @@ import main
 
 def test_instructAdd():
     occupationTitle = main.getOccup()
-    assert occupationTitle == "Instructor"
+    assert occupationTitle == 'Instructor'
 
 def test_instructAddFail():
     occupationTitleFail = main.getOccupFail()
-    assert occupationTitleFail == "Instructor"
-    
+    assert occupationTitleFail == 'Instructor'
